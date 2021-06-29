@@ -1,0 +1,3 @@
+﻿1. Parsing one terabyte of text and efficiently counting the number of occurrences of each word
+Solution - Trie structure
+Link : https://stackoverflow.com/questions/12190326/parsing-one-terabyte-of-text-and-efficiently-counting-the-number-of-occurrences
