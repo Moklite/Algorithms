@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsBalancedParenthesis", "Is
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringToInteger", "StringToInteger\StringToInteger.csproj", "{4601A1A0-2557-4B6B-9AFA-FCF9DB90F1AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleTest", "SampleTest\SampleTest.csproj", "{623D29AC-58AA-4018-87FD-3E73C872D6CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleTest", "SampleTest\SampleTest.csproj", "{623D29AC-58AA-4018-87FD-3E73C872D6CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFormatting", "NumbersFormatting\NumbersFormatting.csproj", "{9488016E-BB7C-4125-A9BC-8635DCBBC8D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{623D29AC-58AA-4018-87FD-3E73C872D6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{623D29AC-58AA-4018-87FD-3E73C872D6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{623D29AC-58AA-4018-87FD-3E73C872D6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9488016E-BB7C-4125-A9BC-8635DCBBC8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9488016E-BB7C-4125-A9BC-8635DCBBC8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9488016E-BB7C-4125-A9BC-8635DCBBC8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9488016E-BB7C-4125-A9BC-8635DCBBC8D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
